@@ -1,0 +1,14 @@
+<course name="B Sc. Software Engineering">
+  <level level="4">
+    <module code="CS-0010" name="OOP Fundamentals" credit="15">
+      <assessment name="Test1" mark="77" weight="100" />
+    </module>
+  </level>
+  <level level="5">
+    <module code="IT-0045" name="sss" credit="30">
+      <assessment name="Test1" mark="87" weight="40" />
+      <assessment name="Assignment1" mark="69" weight="60" />
+    </module>
+  </level>
+  <level level="6" />
+</course>

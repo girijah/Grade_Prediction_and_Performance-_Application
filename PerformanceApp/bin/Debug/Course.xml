@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Course xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CourseName>B Sc. Software Engineering</CourseName>
+  <Levels>
+    <Level>
+      <LevelName>Level 4</LevelName>
+      <Modules>
+        <Module>
+          <Code>CS-0010</Code>
+          <Name>OOP Fundamentals I</Name>
+          <Credits>15</Credits>
+          <Assessments>
+            <Assessment>
+              <Name>Test1</Name>
+              <Weight>100</Weight>
+              <Mark>29</Mark>
+            </Assessment>
+          </Assessments>
+        </Module>
+        <Module>
+          <Code>CS-0012</Code>
+          <Name>OOP Fundamentals II</Name>
+          <Credits>15</Credits>
+          <Assessments>
+            <Assessment>
+              <Name>Test1</Name>
+              <Weight>100</Weight>
+              <Mark>70</Mark>
+            </Assessment>
+          </Assessments>
+        </Module>
+        <Module>
+          <Level>Level 4</Level>
+          <Code>IT-456</Code>
+          <Name>Computer Architecture</Name>
+          <Credits>30</Credits>
+          <Assessments>
+            <Assessment>
+              <Name>Test1</Name>
+              <Weight>100</Weight>
+              <Mark>29</Mark>
+            </Assessment>
+          </Assessments>
+        </Module>
+      </Modules>
+    </Level>
+    <Level>
+      <LevelName>Level 5</LevelName>
+      <Modules>
+        <Module>
+          <Code>IT-0045</Code>
+          <Name>Database Technologies</Name>
+          <Credits>30</Credits>
+          <Assessments>
+            <Assessment>
+              <Name>Test1</Name>
+              <Weight>40</Weight>
+              <Mark>87</Mark>
+            </Assessment>
+            <Assessment>
+              <Name>Assignment1</Name>
+              <Weight>60</Weight>
+              <Mark>69</Mark>
+            </Assessment>
+          </Assessments>
+        </Module>
+        <Module>
+          <Level>Level 5</Level>
+          <Code>e</Code>
+          <Name>e</Name>
+          <Credits>75</Credits>
+          <Assessments>
+            <Assessment>
+              <Name>1</Name>
+              <Weight>100</Weight>
+              <Mark>70</Mark>
+            </Assessment>
+          </Assessments>
+        </Module>
+        <Module>
+          <Level>Level 5</Level>
+          <Code>Ecsc37</Code>
+          <Name>SDp</Name>
+          <Credits>30</Credits>
+          <Assessments>
+            <Assessment>
+              <Name>ict</Name>
+              <Weight>30</Weight>
+              <Mark>60</Mark>
+            </Assessment>
+            <Assessment>
+              <Name>exam</Name>
+              <Weight>30</Weight>
+              <Mark>50</Mark>
+            </Assessment>
+            <Assessment>
+              <Name>ict</Name>
+              <Weight>40</Weight>
+              <Mark>50</Mark>
+            </Assessment>
+          </Assessments>
+        </Module>
+      </Modules>
+    </Level>
+    <Level>
+      <LevelName>Level 6</LevelName>
+      <Modules>
+        <Module>
+          <Level>Level 6</Level>
+          <Code>CS-9901</Code>
+          <Name>Advanced Mathematics</Name>
+          <Credits>30</Credits>
+          <Assessments>
+            <Assessment>
+              <Name>Quiz</Name>
+              <Weight>30</Weight>
+              <Mark>55</Mark>
+            </Assessment>
+            <Assessment>
+              <Name>Test1</Name>
+              <Weight>70</Weight>
+              <Mark>51</Mark>
+            </Assessment>
+          </Assessments>
+        </Module>
+        <Module>
+          <Level>Level 6</Level>
+          <Code>e</Code>
+          <Name>e</Name>
+          <Credits>75</Credits>
+          <Assessments>
+            <Assessment>
+              <Name>e</Name>
+              <Weight>100</Weight>
+              <Mark>77</Mark>
+            </Assessment>
+          </Assessments>
+        </Module>
+        <Module>
+          <Level>Level 6</Level>
+          <Code>1</Code>
+          <Name>1</Name>
+          <Credits>1</Credits>
+          <Assessments>
+            <Assessment>
+              <Name>1</Name>
+              <Weight>1</Weight>
+              <Mark>1</Mark>
+            </Assessment>
+          </Assessments>
+        </Module>
+        <Module>
+          <Level>Level 6</Level>
+          <Code>1</Code>
+          <Name>1</Name>
+          <Credits>1</Credits>
+          <Assessments />
+        </Module>
+        <Module>
+          <Level>Level 6</Level>
+          <Code>1</Code>
+          <Name>1</Name>
+          <Credits>1</Credits>
+          <Assessments>
+            <Assessment>
+              <Name>1</Name>
+              <Weight>1</Weight>
+              <Mark>1</Mark>
+            </Assessment>
+            <Assessment>
+              <Name>2</Name>
+              <Weight>2</Weight>
+              <Mark>2</Mark>
+            </Assessment>
+            <Assessment>
+              <Name>22</Name>
+              <Weight>2</Weight>
+              <Mark>2</Mark>
+            </Assessment>
+            <Assessment>
+              <Name>2</Name>
+              <Weight>2</Weight>
+              <Mark>2</Mark>
+            </Assessment>
+            <Assessment>
+              <Name>3</Name>
+              <Weight>3</Weight>
+              <Mark>3</Mark>
+            </Assessment>
+          </Assessments>
+        </Module>
+      </Modules>
+    </Level>
+  </Levels>
+</Course>
